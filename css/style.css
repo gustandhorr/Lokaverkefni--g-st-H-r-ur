@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: white;
+}
+
+.header, .footer{
+  width:100%;
+  margin: auto;
+  text-align:center;
+
+}
+td,th {
+padding: 8px;
+}
+h1 {
+  font-family: Lobster, Monospace;
+  padding: 10px;
+}
+h3 {font-family: Supermercado One, cursive; text-align: center;
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+#Error{
+  text-align:center;
+  font-size:22pt;
+}
